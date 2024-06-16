@@ -8,7 +8,7 @@
  💻 Studing Bechelor Of Computer Application [BCA] at Inspiria Knowledge Campus<br/>
  🔭 I’m currently working on React,javascript,express.js,node.js.<br/>
  🌱 I’m currently learning MERN stack<br/>
- 👨‍⚖ #learninginpublic in my [LinkedIn] <br/>
+ 👨‍⚖ #learninginpublic in my [LinkedIn](https://www.linkedin.com/in/bubai-shil-36424a2a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)<br/>
  💬 Ask me about Static web page and Data malupulation<br/>
 
 
